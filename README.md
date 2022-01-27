@@ -14,7 +14,7 @@ Next, install dependendcies
  cd ..
 ```
 
-Development enviorment
+Development environment
 ```
  npm run dev
 ```
@@ -28,7 +28,7 @@ Frontend only
 ```
  npm run client
 ```
-Production enviorment
+Production environment
 ```
  # Build client
  cd client
