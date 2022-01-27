@@ -14,21 +14,12 @@ Next, install dependendcies
  cd ..
 ```
 
-Development environment
+Run in development environment
 ```
  npm run dev
 ```
 
-Backend only
-```
- npm run server
-```
-
-Frontend only
-```
- npm run client
-```
-Production environment
+Run in production environment
 ```
  # Build client
  cd client
